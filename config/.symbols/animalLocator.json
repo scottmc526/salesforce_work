@@ -109,7 +109,7 @@
             "annotations": [],
             "location": {
                 "column": 17,
-                "line": 11
+                "line": 10
             },
             "modifiers": [],
             "name": "response",
@@ -120,7 +120,7 @@
             "annotations": [],
             "location": {
                 "column": 25,
-                "line": 15
+                "line": 13
             },
             "modifiers": [],
             "name": "results",
@@ -131,7 +131,7 @@
             "annotations": [],
             "location": {
                 "column": 25,
-                "line": 16
+                "line": 14
             },
             "modifiers": [],
             "name": "animal",
