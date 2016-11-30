@@ -7,55 +7,45 @@
     "key": "01p4100000BRZOyAAP",
     "methods": [
         {
-            "annotations": [
-                {
-                    "name": "IsTest"
-                }
-            ],
+            "annotations": [],
             "location": {
-                "column": 22,
-                "line": 4
+                "column": 21,
+                "line": 3
             },
             "modifiers": [
-                "private",
                 "static",
-                "testMethod"
+                "public"
             ],
-            "name": "animalLocatorMock",
+            "name": "testGetCallout",
             "parameters": [],
             "references": [],
             "returnType": "void",
             "type": null
         }
     ],
-    "name": "AnimalLocatorTest",
+    "name": "AnimalLocatorMock",
     "namespace": null,
     "parentClass": "",
     "properties": [],
     "tableDeclaration": {
-        "annotations": [
-            {
-                "name": "IsTest"
-            }
-        ],
+        "annotations": [],
         "location": {
-            "column": 15,
-            "line": 2
+            "column": 14,
+            "line": 1
         },
         "modifiers": [
-            "private",
-            "testMethod"
+            "public"
         ],
-        "name": "AnimalLocatorTest",
+        "name": "AnimalLocatorMock",
         "references": [],
-        "type": "AnimalLocatorTest"
+        "type": "AnimalLocatorMock"
     },
     "variables": [
         {
             "annotations": [],
             "location": {
                 "column": 17,
-                "line": 5
+                "line": 4
             },
             "modifiers": [],
             "name": "al",
@@ -66,7 +56,7 @@
             "annotations": [],
             "location": {
                 "column": 29,
-                "line": 6
+                "line": 5
             },
             "modifiers": [],
             "name": "mock",
@@ -77,7 +67,7 @@
             "annotations": [],
             "location": {
                 "column": 10,
-                "line": 14
+                "line": 13
             },
             "modifiers": [],
             "name": "result",
