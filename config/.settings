@@ -1,0 +1,16 @@
+{
+    "projectName": "animalLocator",
+    "username": "scottmc526@email.com",
+    "id": "797f7b50-b69c-11e6-ae78-b3114a9e90d4",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "Users/Scott/workspace/redpoint",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
